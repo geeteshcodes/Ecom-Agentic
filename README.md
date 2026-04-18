@@ -12,7 +12,7 @@ Built as a Day 13 Capstone for the **Agentic AI Bootcamp 2025**.
 
 | Component | Technology |
 |-----------|-----------|
-| LLM | Groq `llama3-8b-8192` |
+| LLM | Groq `llama3.1-8b-instant` |
 | Orchestration | LangGraph StateGraph (8 nodes) |
 | Vector DB | ChromaDB (in-memory) |
 | Embeddings | SentenceTransformer `all-MiniLM-L6-v2` |
